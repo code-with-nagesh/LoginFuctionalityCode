@@ -1,0 +1,15 @@
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\bin\Debug\net8.0\ArraySortingProgram.exe
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\bin\Debug\net8.0\ArraySortingProgram.deps.json
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\bin\Debug\net8.0\ArraySortingProgram.runtimeconfig.json
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\bin\Debug\net8.0\ArraySortingProgram.dll
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\bin\Debug\net8.0\ArraySortingProgram.pdb
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.AssemblyInfoInputs.cache
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.AssemblyInfo.cs
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.csproj.CoreCompileInputs.cache
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.sourcelink.json
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.dll
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\refint\ArraySortingProgram.dll
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.pdb
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ArraySortingProgram.genruntimeconfig.cache
+C:\Users\nagesh\source\repos\SpecFlowBDDCucumberAutomationFramework\ArraySortingProgram\obj\Debug\net8.0\ref\ArraySortingProgram.dll
